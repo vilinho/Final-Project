@@ -43,7 +43,7 @@ Video: https://youtube.com/shorts/nifKgS6Jmfo?feature=share
 //  Rastreador Solar (Solar Tracker)
 // ------------------------------------------------------------
 //
-//  Declaração de uso de IA:
+//  Declaração de uso de IA(Gemini):
 //  A lógica de controle, leitura dos sensores e atuação para o 
 //  rastreamento da fonte luminosa foram desenvolvidas pelo autor. 
 //  Ferramentas de Inteligência Artificial foram utilizadas 
