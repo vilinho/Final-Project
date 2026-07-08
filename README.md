@@ -35,7 +35,6 @@
 
 !!!!!!!!!!!!!!!!!!!LINKS IMPORTANTES!!!!!!!!!!!!!!!!!!!!!
 
-Relatorio: 
+Relatorio: https://drive.google.com/file/d/1XgWQ8Vu14frLvCi5SGztrrfGeWaRDj6L/view?usp=drive_link
 
-
-Video:
+Video: https://youtube.com/shorts/nifKgS6Jmfo?feature=share
