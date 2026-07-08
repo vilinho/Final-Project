@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "author": "Gemini",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-pi-pico", "id": "pico", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-servo", "id": "servo1", "top": -50, "left": 250, "attrs": {} },
+    { "type": "wokwi-photoresistor-sensor", "id": "ldr1", "top": 20, "left": -250, "attrs": {} },
+    { "type": "wokwi-photoresistor-sensor", "id": "ldr2", "top": 150, "left": -250, "attrs": {} }
+  ],
+  "connections": [
+    [ "pico:GP4", "servo1:PWM", "green", [ "v0" ] ],
+    [ "pico:3V3", "servo1:V+", "red", [ "h30", "v-80" ] ],
+    [ "pico:GND.3", "servo1:GND", "black", [ "h50", "v-120" ] ],
+    [ "pico:GP27", "ldr1:AO", "green", [ "h-50", "v0" ] ],
+    [ "pico:3V3", "ldr1:VCC", "red", [ "h-70", "v0" ] ],
+    [ "pico:GND.1", "ldr1:GND", "black", [ "h-90", "v0" ] ],
+    [ "pico:GP26", "ldr2:AO", "green", [ "h-30", "v0" ] ],
+    [ "pico:3V3", "ldr2:VCC", "red", [ "h-60", "v-100" ] ],
+    [ "pico:GND.8", "ldr2:GND", "black", [ "h-80", "v0" ] ]
+  ]
+}
