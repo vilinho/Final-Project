@@ -38,3 +38,18 @@
 Relatorio: https://drive.google.com/file/d/1XgWQ8Vu14frLvCi5SGztrrfGeWaRDj6L/view?usp=drive_link
 
 Video: https://youtube.com/shorts/nifKgS6Jmfo?feature=share
+
+// ------------------------------------------------------------
+//  Rastreador Solar (Solar Tracker)
+// ------------------------------------------------------------
+//
+//  Declaração de uso de IA:
+//  A lógica de controle, leitura dos sensores e atuação para o 
+//  rastreamento da fonte luminosa foram desenvolvidas pelo autor. 
+//  Ferramentas de Inteligência Artificial foram utilizadas 
+//  exclusivamente como suporte técnico para:
+//  - Montagem e estruturação do arquivo CMakeLists.txt;
+//  - Diagnóstico e resolução de erros de compilação de ambiente 
+//    (configuração do compilador C/C++ e ferramentas no Windows).
+//
+// ------------------------------------------------------------
